@@ -1,3 +1,3 @@
-Hey, I'm Kunal 👋
+Hey, I'm Kunal Mathur 👋
 
-i'm an Appliction developer, UX & UI designer and a Blogger.Check out my Blog(devsolo.tech)📰 & Portfolio(kunalmathur.in).
+Developer ⛓ & Designer 🎨
