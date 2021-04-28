@@ -14,7 +14,7 @@ Socials
 
 ---
 
-<details><summary>Skills/summary>
+<details><summary>Skills</summary>
 <ul>
  <li>Laravel</li>
 <li>React js</li>
