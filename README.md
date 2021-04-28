@@ -14,7 +14,11 @@ Socials
 
 ---
 
-<details><summary>Skills</summary>
+[Website](https://www.kunalmathur.in) • [Blog](https://blog.devsolo.in) • [Contact](mailto:kunalmathur@outlook.in)
+
+---
+
+<details><summary>Skills 🚀</summary>
 <ul>
  <li>Laravel</li>
 <li>React js</li>
