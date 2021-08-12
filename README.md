@@ -1,31 +1,49 @@
-# Hey There, I'm Kunal Mathur
+# Hey There 👋, I'm Kunal Mathur
 
-Full-stack Developer with bit touch of designing skill 👨‍🎨
+- 👨‍💻 Passionate and creative Full-Stack developer. 
+- 🚀 Love To Explore & Diving Into New Technologies.
+- 🎯 Having The Ability To Analyze And Solve Problems With The Combination Of Project Experience.
+- 🗺 Delh, India.
 
-Currently, I'm working as a freelancer, working on different projects as well as my side projects.
+## Tech Stack 🎒
 
----
+- PHP & Laravel.
+- Node JS, Express, Redux.
+- Next JS, React, Vue.
+- MySQL, REST API.
 
-Socials
+## Social Contacts 🤝
 
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/ikunalmathur)
-[<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/ikunalmathur/)
-[<img src="https://img.shields.io/badge/-instagram-%23bc2a8d.svg?&style=for-the-badge&logo=instagram&logoColor=white"/>](https://www.instagram.com/ikunalmathur/)
+<div>
+ &nbsp;
+ <a href="https://twitter.com/iKunalmathur" alt="Twitter"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/twitter-line.svg"></a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/ikunalmathur" alt="Linkedin"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/linkedin-box-line.svg"></a>
+   &nbsp;
+   <a href="https://instagram.com/iKunalmathur" alt="Instagram"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/instagram-line.svg"></a>
+    &nbsp;
+    <a href="https://www.behance.net/ikunalmathur" alt="Behance"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/behance-line.svg"></a>
+     &nbsp;
+     <a href="https://dribbble.com/iKunalmathur" alt="Dribbble"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/dribbble-line.svg"></a>
+      &nbsp;
+ <div>
+  
+<br />
 
----
+| Sites      | URL |
+| :---        |    :---  |
+| Portfolio  | https://www.kunalmathur.in |
+| Blog  | https://www.blog.devsolo.in |
 
-[Website](https://www.kunalmathur.in) • [Blog](https://blog.devsolo.in) • [Contact](mailto:kunalmathur@outlook.in)
-
----
-
-<details><summary>Skills 🚀</summary>
-<ul>
- <li>Laravel</li>
-<li>React js</li>
-<li>HTML</li>
-<li>CSS</li>
-<li>JS</li>
-<li>PHP</li>
-<li>SQL</li>
-</ul>
-</details>
+## Json Data 🗃 
+  
+```json
+{
+  "role": "Full-Stack Developer",
+  "firstName": "Kunal",
+  "lastName": "Mathur",
+  "age": 23,
+  "location": "Delhi, India",
+  "available": true,
+}
+```
