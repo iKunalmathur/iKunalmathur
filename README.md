@@ -32,8 +32,8 @@
 
 | Sites      | URL |
 | :---        |    :---  |
-| Portfolio  | https://www.kunalmathur.in |
-| Blog  | https://www.devsolo.in |
+| Portfolio  | https://kunalmathur.in |
+| Blog  | https://devsolo.in |
 
 ## Json Data 🗃 
   
