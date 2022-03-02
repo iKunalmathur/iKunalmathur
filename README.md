@@ -9,7 +9,7 @@
 
 - PHP & Laravel.
 - Node JS, Express, Redux.
-- Next JS, React, Vue.
+- Next JS, React.
 - MySQL, REST API.
 
 ## Social Contacts 🤝
@@ -33,7 +33,7 @@
 | Sites      | URL |
 | :---        |    :---  |
 | Portfolio  | https://www.kunalmathur.in |
-| Blog  | https://www.blog.devsolo.in |
+| Blog  | https://www.devsolo.in |
 
 ## Json Data 🗃 
   
@@ -44,6 +44,6 @@
   "lastName": "Mathur",
   "age": 23,
   "location": "Delhi, India",
-  "available": true,
+  "is_available_to_work": true,
 }
 ```
