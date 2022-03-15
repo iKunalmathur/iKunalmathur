@@ -7,9 +7,9 @@
 
 ## Tech Stack 🎒
 
-- PHP & Laravel.
-- Node JS, Express, Redux.
-- Next JS, React.
+- PHP/Laravel.
+- Next/React js.
+- Node + Express js.
 - MySQL, REST API.
 
 ## Social Contacts 🤝
