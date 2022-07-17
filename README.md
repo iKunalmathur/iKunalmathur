@@ -8,7 +8,7 @@
 ## Tech Stack 🎒
 
 - PHP/Laravel.
-- Next/React js.
+- Next js.
 - Node + Express js.
 - MySQL, REST API.
 
