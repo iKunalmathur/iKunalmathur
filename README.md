@@ -42,7 +42,7 @@
   "role": "Full-Stack Developer",
   "firstName": "Kunal",
   "lastName": "Mathur",
-  "age": 23,
+  "age": 24,
   "location": "Delhi, India",
   "is_available_to_work": true,
 }
