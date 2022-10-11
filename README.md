@@ -7,10 +7,10 @@
 
 ## Tech Stack 🎒
 
-- PHP/Laravel.
-- Next js.
-- Node + Express js.
-- MySQL, REST API.
+- PHP/Laravel
+- Node + Next js
+- MySQL, REST API
+- Vs Code, Figma
 
 ## Social Contacts 🤝
 
