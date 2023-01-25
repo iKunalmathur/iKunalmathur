@@ -1,16 +1,18 @@
 # Hey There 👋, I'm Kunal Mathur
 
 - 👨‍💻 Passionate and creative Full-Stack developer. 
-- 🚀 Love To Explore & Diving Into New Technologies.
+- 🚀 Love To Explore & Dive into New Technologies.
 - 🎯 Having The Ability To Analyze And Solve Problems With The Combination Of Project Experience.
-- 🗺 Delh, India.
+- 📍 Delhi Se Hoon... 
 
 ## Tech Stack 🎒
 
-- PHP/Laravel
-- Node + Next js
+- PHP / Laravel
+- Next js
 - MySQL, REST API
-- Vs Code, Figma
+- VS Code
+- Figma, XD
+- Linux
 
 ## Social Contacts 🤝
 
