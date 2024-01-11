@@ -10,6 +10,7 @@
 - PHP / Laravel
 - Next js
 - MySQL, REST API
+- Docker
 - VS Code
 - Figma, XD
 - Linux
