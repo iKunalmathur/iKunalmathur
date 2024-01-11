@@ -1,11 +1,11 @@
-# Hey There 👋, I'm Kunal Mathur
+# Greetings! 👋 , I'm Kunal Mathur
 
 - 👨‍💻 Passionate and creative Full-Stack developer. 
 - 🚀 Love To Explore & Dive into New Technologies.
 - 🎯 Having The Ability To Analyze And Solve Problems With The Combination Of Project Experience.
 - 📍 Delhi, India
 
-## Tech Stack 🎒
+## Technology Arsenal
 
 - PHP / Laravel
 - Next js
@@ -15,7 +15,7 @@
 - Figma, XD
 - Linux
 
-## Social Contacts 🤝
+## Social 
 
 <div>
  &nbsp;
@@ -38,7 +38,7 @@
 | Portfolio  | https://kunalmathur.in |
 | Blog  | https://blog.kunalmathur.in |
 
-## Json Data 🗃 
+## Json
   
 ```json
 {
