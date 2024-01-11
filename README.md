@@ -3,7 +3,7 @@
 - 👨‍💻 Passionate and creative Full-Stack developer. 
 - 🚀 Love To Explore & Dive into New Technologies.
 - 🎯 Having The Ability To Analyze And Solve Problems With The Combination Of Project Experience.
-- 📍 Delhi Se Hoon... 
+- 📍 Delhi, India
 
 ## Tech Stack 🎒
 
@@ -36,15 +36,14 @@
 | Sites      | URL |
 | :---        |    :---  |
 | Portfolio  | https://kunalmathur.in |
-| Blog  | https://devsolo.in |
+| Blog  | https://blog.kunalmathur.in |
 
 ## Json Data 🗃 
   
 ```json
 {
-  "role": "Full-Stack Developer",
-  "firstName": "Kunal",
-  "lastName": "Mathur",
+  "full_name": "Kunal Mathur",
+  "role": "Full Stack Developer",
   "age": 25,
   "location": "Delhi, India",
   "is_available_to_work": true,
