@@ -8,11 +8,13 @@
 ## Technology Arsenal
 
 - PHP / Laravel
-- Next js
-- MySQL, REST API
+- React / Next js
+- Tailwind Css / Bootstrap 5
+- MySQL, MariaDB
+- REST API
 - Docker
-- VS Code
-- Figma, XD
+- Visual Studio Code
+- Figma
 - Linux
 
 ## Social 
