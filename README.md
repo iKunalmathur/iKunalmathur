@@ -5,7 +5,7 @@
 - 🎯 Having The Ability To Analyze And Solve Problems With The Combination Of Project Experience.
 - 📍 Delhi, India
 
-## Technology Arsenal
+## Tech Arsenal
 
 - PHP / Laravel
 - React / Next js
@@ -17,7 +17,7 @@
 - Figma
 - Linux
 
-## Social 
+## Socials
 
 <div>
  &nbsp;
@@ -40,7 +40,7 @@
 | Portfolio  | https://kunalmathur.in |
 | Blog  | https://blog.kunalmathur.in |
 
-## Json
+## Json Summary
   
 ```json
 {
