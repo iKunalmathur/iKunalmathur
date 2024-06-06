@@ -7,15 +7,17 @@
 
 ## Tech Arsenal
 
-- PHP / Laravel
 - React / Next js
-- Tailwind Css / Bootstrap 5
+- Laravel / Livewire
+- Javascript / PHP
 - MySQL, MariaDB
-- REST API
+- Tailwind Css / Bootstrap 5
+- Git / Github
 - Docker
-- Visual Studio Code
+- AWS / Linux
 - Figma
-- Linux
+- Visual Studio Code
+
 
 ## Socials
 
