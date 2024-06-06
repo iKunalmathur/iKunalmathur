@@ -23,7 +23,7 @@
 
 <div>
  &nbsp;
- <a href="https://twitter.com/iKunalmathur" alt="Twitter"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/twitter-line.svg"></a>
+ <a href="https://twitter.com/iKunalmathur" alt="Twitter"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/twitter-48.png"></a>
   &nbsp;
   <a href="https://www.linkedin.com/in/ikunalmathur" alt="Linkedin"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/linkedin-box-line.svg"></a>
    &nbsp;
