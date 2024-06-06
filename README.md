@@ -25,13 +25,13 @@
  &nbsp;
  <a href="https://twitter.com/iKunalmathur" alt="Twitter"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/twitter-48.png"></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/ikunalmathur" alt="Linkedin"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/linkedin-box-line.svg"></a>
+  <a href="https://www.linkedin.com/in/ikunalmathur" alt="Linkedin"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/linkedin-48.png"></a>
    &nbsp;
-   <a href="https://instagram.com/iKunalmathur" alt="Instagram"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/instagram-line.svg"></a>
+   <a href="https://instagram.com/iKunalmathur" alt="Instagram"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/instagram-48.png"></a>
     &nbsp;
-    <a href="https://www.behance.net/ikunalmathur" alt="Behance"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/behance-line.svg"></a>
+    <a href="https://www.behance.net/ikunalmathur" alt="Behance"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/behance-48.png"></a>
      &nbsp;
-     <a href="https://dribbble.com/iKunalmathur" alt="Dribbble"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/dribbble-line.svg"></a>
+     <a href="https://dribbble.com/iKunalmathur" alt="Dribbble"><img alt="" src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/dribbble-48.png"></a>
       &nbsp;
  <div>
   
