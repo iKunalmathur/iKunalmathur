@@ -1,4 +1,4 @@
-# Greetings! 👋 , I'm Kunal Mathur
+# Greetings! 🙏, I'm Kunal Mathur
 
 - 👨‍💻 Passionate and creative Full-Stack developer. 
 - 🚀 Love To Explore & Dive into New Technologies.
@@ -19,7 +19,7 @@
 - Visual Studio Code
 
 
-## Socials
+## Let's Connect
 
 <div>
  &nbsp;
@@ -42,12 +42,12 @@
 | Portfolio  | https://kunalmathur.in |
 | Blog  | https://blog.kunalmathur.in |
 
-## Json Summary
+## Summary
   
 ```json
 {
   "full_name": "Kunal Mathur",
-  "role": "Full Stack Developer",
+  "role": "Full-Stack Developer",
   "age": 25,
   "location": "Delhi, India",
   "is_available_to_work": true,
