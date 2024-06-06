@@ -10,7 +10,7 @@
 - React / Next js
 - Laravel / Livewire
 - Javascript / PHP
-- MySQL, MariaDB
+- MySQL / MariaDB / MongoDB
 - Tailwind Css / Bootstrap 5
 - Git / Github
 - Docker
