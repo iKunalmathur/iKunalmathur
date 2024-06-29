@@ -52,16 +52,4 @@
 
 ---
 
-## 📋 Summary
-  
-```json
-{
-  "full_name": "Kunal Mathur",
-  "role": "Full-Stack Developer",
-  "age": 25,
-  "location": "Delhi, India",
-  "is_available_to_work": true
-}
-```
-
 Feel free to reach out for collaborations or just a friendly chat. Let's build something amazing together! 🚀
