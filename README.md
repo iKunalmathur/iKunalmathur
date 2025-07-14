@@ -34,10 +34,6 @@
 <p align="center">
     <a href="https://www.linkedin.com/in/ikunalmathur" alt="Linkedin"><img src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/linkedin-48.png"></a>
     &nbsp;
- <a href="https://twitter.com/iKunalmathur" alt="Twitter"><img src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/twitter-48.png"></a>
-    &nbsp;
-    <a href="https://instagram.com/iKunalmathur" alt="Instagram"><img src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/instagram-48.png"></a>
-    &nbsp;
     <a href="https://www.behance.net/ikunalmathur" alt="Behance"><img src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/behance-48.png"></a>
 </p>
 
