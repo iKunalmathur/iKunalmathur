@@ -44,7 +44,7 @@
 | Sites      | URL |
 | :---       | :--- |
 | Portfolio  | [kunalmathur.in](https://kunalmathur.in) |
-| Blog       | [blog.kunalmathur.in](https://blog.kunalmathur.in) |
+| Blog       | [someordinarydeveloper.com](https://someordinarydeveloper.com) |
 
 ---
 
