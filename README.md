@@ -36,7 +36,7 @@ Docker · AWS · CI/CD · Git · Linux · VS Code
 
 ## 🌐 Find Me Online
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/ikunalmathur">
     <img src="https://github.com/iKunalmathur/iKunalmathur/blob/master/assets/icons/linkedin-48.png" />
   </a>
@@ -58,3 +58,7 @@ Docker · AWS · CI/CD · Git · Linux · VS Code
 ---
 
 If something here sparks an idea—or you just want to talk systems, DX, or side projects—feel free to reach out.
+
+---
+
+![](https://komarev.com/ghpvc/?username=ikunalmathur&color=grey)
